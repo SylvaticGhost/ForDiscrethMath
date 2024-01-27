@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "g5Q1vIMfT8Ahu5005jikbyF4wxmo7k3ZN1DSIvHBcMp52vbjS67Q0pIPlLM0ODa/MzhB5tRhCsq/P1a75OdxAw==",
+  "success": true,
+  "projectFilePath": "/Users/Kostia/RiderProjects/Notes/TrianglePolinomZhegalkina/TrianglePolinomZhegalkina.csproj",
+  "expectedPackageFiles": [
+    "/Users/Kostia/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/Kostia/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/Kostia/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

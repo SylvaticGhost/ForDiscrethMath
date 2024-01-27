@@ -1,0 +1,14 @@
+/Users/Kostia/RiderProjects/Notes/Trykutnyk_pollinom_zhegalkina/bin/Debug/net7.0/Trykutnyk_pollinom_zhegalkina
+/Users/Kostia/RiderProjects/Notes/Trykutnyk_pollinom_zhegalkina/bin/Debug/net7.0/Trykutnyk_pollinom_zhegalkina.deps.json
+/Users/Kostia/RiderProjects/Notes/Trykutnyk_pollinom_zhegalkina/bin/Debug/net7.0/Trykutnyk_pollinom_zhegalkina.runtimeconfig.json
+/Users/Kostia/RiderProjects/Notes/Trykutnyk_pollinom_zhegalkina/bin/Debug/net7.0/Trykutnyk_pollinom_zhegalkina.dll
+/Users/Kostia/RiderProjects/Notes/Trykutnyk_pollinom_zhegalkina/bin/Debug/net7.0/Trykutnyk_pollinom_zhegalkina.pdb
+/Users/Kostia/RiderProjects/Notes/Trykutnyk_pollinom_zhegalkina/obj/Debug/net7.0/Trykutnyk_pollinom_zhegalkina.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Kostia/RiderProjects/Notes/Trykutnyk_pollinom_zhegalkina/obj/Debug/net7.0/Trykutnyk_pollinom_zhegalkina.AssemblyInfoInputs.cache
+/Users/Kostia/RiderProjects/Notes/Trykutnyk_pollinom_zhegalkina/obj/Debug/net7.0/Trykutnyk_pollinom_zhegalkina.AssemblyInfo.cs
+/Users/Kostia/RiderProjects/Notes/Trykutnyk_pollinom_zhegalkina/obj/Debug/net7.0/Trykutnyk_pollinom_zhegalkina.csproj.CoreCompileInputs.cache
+/Users/Kostia/RiderProjects/Notes/Trykutnyk_pollinom_zhegalkina/obj/Debug/net7.0/Trykutnyk_pollinom_zhegalkina.dll
+/Users/Kostia/RiderProjects/Notes/Trykutnyk_pollinom_zhegalkina/obj/Debug/net7.0/refint/Trykutnyk_pollinom_zhegalkina.dll
+/Users/Kostia/RiderProjects/Notes/Trykutnyk_pollinom_zhegalkina/obj/Debug/net7.0/Trykutnyk_pollinom_zhegalkina.pdb
+/Users/Kostia/RiderProjects/Notes/Trykutnyk_pollinom_zhegalkina/obj/Debug/net7.0/Trykutnyk_pollinom_zhegalkina.genruntimeconfig.cache
+/Users/Kostia/RiderProjects/Notes/Trykutnyk_pollinom_zhegalkina/obj/Debug/net7.0/ref/Trykutnyk_pollinom_zhegalkina.dll
