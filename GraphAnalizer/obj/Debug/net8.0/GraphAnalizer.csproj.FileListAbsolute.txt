@@ -1,0 +1,14 @@
+/Users/Kostia/RiderProjects/Notes/GraphAnalizer/bin/Debug/net8.0/GraphAnalizer
+/Users/Kostia/RiderProjects/Notes/GraphAnalizer/bin/Debug/net8.0/GraphAnalizer.deps.json
+/Users/Kostia/RiderProjects/Notes/GraphAnalizer/bin/Debug/net8.0/GraphAnalizer.runtimeconfig.json
+/Users/Kostia/RiderProjects/Notes/GraphAnalizer/bin/Debug/net8.0/GraphAnalizer.dll
+/Users/Kostia/RiderProjects/Notes/GraphAnalizer/bin/Debug/net8.0/GraphAnalizer.pdb
+/Users/Kostia/RiderProjects/Notes/GraphAnalizer/obj/Debug/net8.0/GraphAnalizer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Kostia/RiderProjects/Notes/GraphAnalizer/obj/Debug/net8.0/GraphAnalizer.AssemblyInfoInputs.cache
+/Users/Kostia/RiderProjects/Notes/GraphAnalizer/obj/Debug/net8.0/GraphAnalizer.AssemblyInfo.cs
+/Users/Kostia/RiderProjects/Notes/GraphAnalizer/obj/Debug/net8.0/GraphAnalizer.csproj.CoreCompileInputs.cache
+/Users/Kostia/RiderProjects/Notes/GraphAnalizer/obj/Debug/net8.0/GraphAnalizer.dll
+/Users/Kostia/RiderProjects/Notes/GraphAnalizer/obj/Debug/net8.0/refint/GraphAnalizer.dll
+/Users/Kostia/RiderProjects/Notes/GraphAnalizer/obj/Debug/net8.0/GraphAnalizer.pdb
+/Users/Kostia/RiderProjects/Notes/GraphAnalizer/obj/Debug/net8.0/GraphAnalizer.genruntimeconfig.cache
+/Users/Kostia/RiderProjects/Notes/GraphAnalizer/obj/Debug/net8.0/ref/GraphAnalizer.dll
